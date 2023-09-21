@@ -4,11 +4,11 @@ name: Kashiuchi Sotaro
 description: Software Developer
 
 # Url is currently only used only for the RSS feed in feed.xml
-# url: https://sotarokashiuchi.github.io/blog.jp/
+# url: https://sotarokashiuchi.github.io/blog.en/
 # url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
-baseurl: '/blog.jp'
+baseurl: '/blog.en'
 
 author: Kashiuchi Sotaro
 copyright: 2020-2023
